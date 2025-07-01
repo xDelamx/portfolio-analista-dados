@@ -1,7 +1,7 @@
 # Painel Operacional
 
 ## Objetivo
-Anlizar a rotina operacional de uma equipde de Segurança
+Anlizar a rotina operacional de uma equipe de Segurança
 
 ## Ferramentas e Tecnologias
 - Excel
