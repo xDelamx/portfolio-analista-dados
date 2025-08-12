@@ -1,0 +1,2 @@
+Segue painel para analise de dados, conforme coleta ao longo de 6 meses
+https://lookerstudio.google.com/reporting/d5d2da40-4cd1-4646-b6eb-dc2ef52ae893
